@@ -1,0 +1,17 @@
+Training:
+	Training using optdigits-orig [Training].windep [Supervised]
+
+	Data results stored
+
+	Finished training in 0.082000 seconds
+
+Testing:
+	Testing on optdigits-orig [Validation].wdep
+
+	Picking up data results
+
+	Finished testing in 1.265000 seconds
+
+	Total Test Models	: 943
+	Correct predictions	: 776
+	Accuracy			: 82.290562

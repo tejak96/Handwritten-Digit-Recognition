@@ -1,0 +1,46 @@
+########### optdigits-orig.wdep ###########
+BU handwritten digit database: E Alpaydin C Kaynak 1995
+Writer-dependent test file
+
+entwidth = 32
+entheight = 32
+depth = 1
+density = 300
+whitepix = 0
+ntot = 943
+ndigit = 943
+nlower = 0
+nupper = 0
+nparag = 0
+firstdigit = 0
+lastdigit = 942
+firstlower = 942
+lastlower = 942
+firstupper = 942
+lastupper = 942
+firstparag = 942
+lastparag = 942
+
+############ optdigits-orig.windep #################
+BU handwritten digit database: E Alpaydin C Kaynak 1995
+Writer-independent test file
+
+entwidth = 32
+entheight = 32
+depth = 1
+density = 300
+whitepix = 0
+ntot = 1797
+ndigit = 1797
+nlower = 0
+nupper = 0
+nparag = 0
+firstdigit = 0
+lastdigit = 0
+firstlower = 0
+lastlower = 0
+firstupper = 0
+lastupper = 0
+firstparag = 0
+lastparag = 0
+
